@@ -7,23 +7,11 @@ categories: [Environmental Planning, Professional Regulation]
 tags: [ra 10587, environmental planning act, enp, professionalization, professional regulation commission]
 meta_title: "RA 10587: Mastering Philippine Environmental Planning"
 description: "A comprehensive guide to the Environmental Planning Act of 2013 (RA 10587) for students, covering licensure, scope, and professional standards."
-image: /assets/img/jekyll-articles/20260104-ra-10587-mastering-philippine-environmental-planning/feature.png
 toc: true
 pin: false
 ---
 
-## Quick Summary Table
-| Key Point | Description |
-| :--- | :--- |
-| **Official Name** | The Philippine Environmental Planning Act of 2013 |
-| **Republic Act No.** | 10587 |
-| **Goal** | Professionalization of Environmental Planning |
-| **Regulating Body** | Professional Regulation Commission (PRC) & Board of Environmental Planning |
-| **Key Requirement** | Mandatory licensure for professional practice |
-
----
-
-Welcome, future Environmental Planners! Understanding Republic Act No. 10587, or the **Philippine Environmental Planning Act of 2013**, is crucial. This law formally established Environmental Planning as a regulated profession in the Philippines, ensuring that environmental considerations are integrated systematically into national and local development processes.
+Understanding Republic Act No. 10587, or the **Philippine Environmental Planning Act of 2013**, is crucial. This law formally established Environmental Planning as a regulated profession in the Philippines, ensuring that environmental considerations are integrated systematically into national and local development processes.
 
 This article breaks down the essential components of RA 10587, focusing on what it means for your professional journey.
 
