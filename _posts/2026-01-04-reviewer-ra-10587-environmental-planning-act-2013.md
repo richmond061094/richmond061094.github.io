@@ -1,6 +1,7 @@
 ---
-title: Reviewer: Environmental Planning Act of 2013 (RA 10587)
-date: 2023-10-27
+layout: post
+title: "Environmental Planning Act of 2013 (RA 10587) and its Key Pointers"
+date: 2026-01-04 22:00:00 +0800
 author: Richmond Manuel
 slug: reviewer-ra-10587-environmental-planning-act-2013
 image: /assets/img/jekyll-articles/20231027-reviewer-ra-10587-environmental-planning-act-2013/feature.png
