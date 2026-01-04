@@ -2,7 +2,7 @@
 layout: post
 title: "RA 10587: Mastering Philippine Environmental Planning"
 date: 2026-01-04 09:02:36 +0800
-author: Richmond Manuel
+author: richmond
 categories: [Environmental Planning, Professional Regulation]
 tags: [ra 10587, environmental planning act, enp, professionalization, professional regulation commission]
 meta_title: "RA 10587: Mastering Philippine Environmental Planning"
