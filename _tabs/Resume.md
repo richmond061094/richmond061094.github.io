@@ -26,7 +26,7 @@ A licensed **Environmental Planner** who champions **data-driven solutions** for
     <li class="item">
 Information Technology Officer II – Senior Data Analyst
       <div class="excerpt">
-        <p><b>Department of Social Welfare and Technology (DSWD) - Central Office</b><br>February 2023 - Present</p>
+        <p><b>Department of Social Welfare and Development (DSWD) - Central Office</b><br>February 2023 - Present</p>
         <ul>
           <li>Develops presentation on systems development and project management processes</li>
           <li>Participates in the Conduct Business Process and Requirements Analysis in coordination with DSWD OBS- Business Owners</li>
@@ -64,7 +64,7 @@ Data Engineer
     <li class="item">
 Information Technology Officer I – GIS/BI Data Administrator
       <div class="excerpt">
-        <p><b>Department of Social Welfare and Technology (DSWD) - Central Office</b><br>November 2021 - January 2023 (1 year and 3 months)</p>
+        <p><b>Department of Social Welfare and Development (DSWD) - Central Office</b><br>November 2021 - January 2023 (1 year and 3 months)</p>
         <ul>
           <li>Administered, managed, and maintained GIS and related systems</li>
           <li>Coordinated and assisted database managers in the standardization of geospatial data</li>
